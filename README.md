@@ -1,4 +1,4 @@
-# Mainframe Batch to AWS Pattern
+# Mainframe Batch to AWS Scheme
 
 A portfolio project that demonstrates how a traditional mainframe batch workload can be modernized on AWS using two distinct strategies:
 
